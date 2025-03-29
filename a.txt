@@ -1,0 +1,2 @@
+this is a tesxt file 
+this is realted to db
