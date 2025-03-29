@@ -1,6 +1,4 @@
 this is a tesxt file 
 this is realted to db
 
-this is a data base file informatio
-
-this details related to db information details
+ this is surendra 
